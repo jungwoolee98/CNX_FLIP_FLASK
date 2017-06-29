@@ -1,0 +1,3 @@
+from cnx_flip import db
+db.create_all()
+exit()
